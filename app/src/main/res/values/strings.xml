@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="textMainLayout">Hello World!</string>
+    <string name="bTextMainLayout">Button</string>
+</resources>
